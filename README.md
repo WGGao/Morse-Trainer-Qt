@@ -163,7 +163,7 @@ Coming soon on the App Store.
 
 ## 📧 Support
 
-Contact: your@email.com
+Contact: phocircs@icloud.com
 
 ---
 
