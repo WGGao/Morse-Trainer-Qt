@@ -1,173 +1,152 @@
-# Morse-Trainer-Qt
-A beginner-friendly Morse code trainer for learning CW from scratch with structured practice.
 # Morse Trainer QT
 
-Morse Trainer QT is a beginner-focused Morse code learning app designed to help users build real CW listening skills from zero.
+**Morse Trainer QT** is a structured Morse code (CW) learning and practice app designed for beginners and operators who want to build reliable listening and copying skills.
 
-Instead of memorizing dot-dash tables, the app emphasizes **hearing rhythm, structured progression, and continuous reinforcement**, allowing learners to naturally develop the ability to copy Morse code.
-
----
-
-## 🚀 Learning System
-
-### 📚 Structured Course (Koch Method)
-
-The course follows a progressive learning path based on the Koch method:
-
-- Start with a small set of characters  
-- Gradually introduce new ones  
-- Continuously reinforce previously learned characters  
-
-Each lesson is divided into four stages:
-
-- **Preview** – Listen to new characters  
-- **Warmup** – Light practice  
-- **Main** – Focused training  
-- **Review** – Target weak points  
-
-This structure ensures that new characters are absorbed naturally while preventing rapid forgetting.
+Rather than relying on visual dot-and-dash memorization, Morse Trainer QT focuses on listening, rhythm recognition, progressive learning, and repeated practice.
 
 ---
 
-### 🎯 Intelligent Practice System
+## Overview
 
-In normal training mode:
+Morse Trainer QT provides a guided path from first exposure to more advanced CW practice.
 
-- New characters appear more frequently  
-- Recently learned characters are reinforced  
-- Repetition is allowed but controlled  
+The app combines:
 
-Each lesson has a **clear passing requirement**, ensuring stable progress and a sense of achievement.
-
----
-
-## 🔥 Hardcore Mode
-
-Hardcore Mode is designed to simulate real continuous copying:
-
-- 5 characters per group × 10 groups  
-- Full-session input using a built-in keyboard  
-- Results shown only after completion  
-
-Features:
-
-- Replay original audio  
-- Highlight errors position by position  
-- Train stability under pressure  
-
-This mode ensures users can **truly copy Morse continuously**, not just recognize characters.
+- Structured progressive lessons
+- Koch-style character introduction
+- Farnsworth timing support
+- Callsign copy practice
+- Number copy practice
+- Weak-character reinforcement
+- Advanced continuous-copy training
+- Adjustable speed and tone
+- Learning progress tracking
+- iCloud progress synchronization
 
 ---
 
-## 📡 Specialized Training Modules
+## Structured Learning
+
+The course introduces Morse characters gradually and reinforces previously learned material throughout the training process.
+
+Each lesson contains multiple stages designed to move the learner from recognition to reliable copying.
+
+Training emphasizes listening directly to Morse rhythm instead of translating visual dot-and-dash patterns.
+
+---
+
+## Training Modes
+
+### Course Training
+
+Follow the structured learning path and progressively unlock new characters and exercises.
 
 ### Callsign Copy
 
-- Practice real amateur radio callsigns  
-- Uses a realistic input interface  
-- Includes replay and control functions  
-
-After unlocking, includes:
-
-- A full database of **8109 real callsigns from CQ WW CW 2025**
-
----
+Practice copying amateur radio callsigns using a dedicated input interface and realistic CW playback.
 
 ### Number Copy
 
-- Focused training for digits (0–9)  
-- Continuous grouped playback  
-- Calculator-style input interface  
+Train recognition and copying of digits in continuous groups.
 
-Ideal for improving number recognition speed.
+### Advanced Training
 
----
-
-## 📊 Smart Feedback System
-
-The app tracks:
-
-- Accuracy  
-- Best performance  
-- Training count  
-- Weak characters  
-
-Weak characters are **dynamically updated** based on recent performance:
-
-- Frequently mistaken characters are highlighted  
-- Once improved, they automatically fade out  
-
-This keeps feedback relevant to your current learning state.
+Advanced modes are designed for longer, more demanding copy sessions and improved stability under continuous listening conditions.
 
 ---
 
-## 🎧 Audio & Customization
+## Progress and Feedback
 
-Adjustable parameters:
+Morse Trainer QT tracks learning and practice information such as:
 
-- Character Speed  
-- Effective Speed  
-- Tone  
-- Start Delay  
+- Course progress
+- Accuracy
+- Practice history
+- Best performance
+- Weak characters
 
-All settings provide **real-time audio preview (CQ playback)** for instant feedback.
-
----
-
-## 📱 User Experience
-
-- Built-in keyboard (no system input interruptions)  
-- Tape-style result display with replay highlighting  
-- Collapsible course structure  
-- Light & dark mode support  
-- Multi-language support:
-
-English, Simplified Chinese, Traditional Chinese, Spanish, Arabic, French, Portuguese, Russian, German, Japanese, Korean, Thai  
-
-(Arabic includes full RTL layout support)
+Weak-character feedback adapts to recent practice results so that difficult characters can receive additional attention.
 
 ---
 
-## 💰 Unlock System
+## Audio and Speed Controls
 
-- Free access to initial lessons  
-- One-time purchase to unlock:
+Users can adjust training parameters including:
 
-  - Full course  
-  - Higher speed limits  
-  - Full callsign database  
-  - All training modes  
+- Character speed
+- Effective speed
+- Tone frequency
+- Start delay
 
----
-
-## 🎯 Philosophy
-
-Morse Trainer QT is not a simple Morse code chart app.
-
-It is a complete training system focused on:
-
-- Listening ability  
-- Rhythm recognition  
-- Continuous copying  
-- Targeted reinforcement  
-
-Designed for beginners, but powerful enough for long-term training.
+Audio settings can be previewed directly inside the app.
 
 ---
 
-## ⬇️ Download
+## iCloud Sync
 
-Coming soon on the App Store.
+Morse Trainer QT can use Apple iCloud and CloudKit to synchronize supported learning progress between compatible devices signed in to the same iCloud account.
 
----
-
-## 📧 Support
-
-Contact: phocircs@icloud.com
+No separate Morse Trainer QT account is required.
 
 ---
 
-## 📜 License
+## Full Access
 
-© 2026 WG.Gao. All rights reserved.  
-This software is proprietary and not open source.
+The app includes free introductory content.
+
+A one-time non-consumable in-app purchase provides **Full Access**, unlocking:
+
+- All courses
+- Advanced training modes
+- Expanded training options
+
+Purchases are processed securely through the Apple App Store using StoreKit.
+
+Previously purchased access can be restored from within the app.
+
+---
+
+## Languages
+
+Morse Trainer QT supports multiple interface languages, including:
+
+English, Simplified Chinese, Traditional Chinese, Japanese, Spanish, French, Portuguese, German, Russian, Korean, Thai, and Arabic.
+
+Arabic includes right-to-left interface support.
+
+---
+
+## Privacy
+
+Morse Trainer QT does not contain third-party advertising and does not track users for advertising purposes.
+
+Learning progress may be stored locally and, when iCloud synchronization is used, in the user's private iCloud environment.
+
+A full privacy policy is available on the project support site.
+
+---
+
+## Support
+
+For technical support, questions, or feedback:
+
+**Email:** phocircs@icloud.com
+
+Support and privacy information will also be available through the Morse Trainer QT support website.
+
+---
+
+## App Store
+
+Morse Trainer QT is preparing for release on the Apple App Store.
+
+The official App Store link will be added here after release.
+
+---
+
+## Copyright
+
+Copyright © 2026 WEIGUANG GAO. All rights reserved.
+
+Morse Trainer QT is proprietary software.  
+This repository is provided for product information and support purposes and does not grant permission to copy, modify, redistribute, or reuse the application source code or proprietary assets.
